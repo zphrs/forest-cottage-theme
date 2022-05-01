@@ -1,0 +1,27 @@
+{
+  "name": "forest-cottage",
+  "displayName": "forest cottage",
+  "description": "A foresty theme 🍃",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "Category": "Themes",
+  "publisher": "zephyrj",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Cottage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forest Cottage-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zphyrj/forest-cottage-theme.git"
+  }
+}
