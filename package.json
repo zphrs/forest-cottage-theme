@@ -21,7 +21,8 @@
     ]
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:zphyrj/forest-cottage-theme.git"
-  }
+    "type": "https",
+    "url": "https://github.com/zphyrj/forest-cottage-theme.git"
+  },
+  "icon": "leaf.png"
 }
