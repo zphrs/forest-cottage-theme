@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.3.3] - 2022-08-18
+## Added
+- Custom color for the ipynb editor background to change it from an ugly green to a pleasant slightly desaturated purple
