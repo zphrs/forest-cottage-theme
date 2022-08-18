@@ -324,7 +324,7 @@
 		//"minimapSlider.background": "#79797933",
 		//"minimapSlider.hoverBackground": "#64646459",
 		//"notebook.cellBorderColor": "#37373d",
-		//"notebook.cellEditorBackground": "#252526",
+		"notebook.cellEditorBackground": "#ffffff0c",
 		//"notebook.cellInsertionIndicator": "#007fd4",
 		//"notebook.cellStatusBarItemHoverBackground": "#ffffff26",
 		//"notebook.cellToolbarSeparator": "#80808059",
