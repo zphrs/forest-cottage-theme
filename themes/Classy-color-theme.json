@@ -1,0 +1,156 @@
+{
+  "name": "by https://github.com/el-angel/theme-editor",
+  "colors": {
+    "editor.background": "#040421",
+    "editor.foreground": "#e9eae4",
+    "foreground": "#cdc3ff",
+    "errorForeground": "#F58F53",
+    "focusBorder": "#193632",
+    "widget.shadow": "#000000",
+    "disabledForeground": "#535555",
+    "descriptionForeground": "#E9EAE4",
+    "widget.border": "#345348",
+    "sash.hoverBorder": "#193632",
+    "textLink.foreground": "#A8A9F4",
+    "textLink.activeForeground": "#CFD3FF",
+    "textBlockQuote.background": "#040421",
+    "textCodeBlock.background": "#040421",
+
+    "button.background": "#a8a9f4",
+    "button.foreground": "#040421",
+    "button.secondaryBackground": "#2D27A4",
+    "button.secondaryForeground": "#A8A9F4",
+    "button.hoverBackground": "#645cee",
+
+    "editorGutter.background": "#040421",
+    "editorLineNumber.foreground": "#535555",
+    "editorLineNumber.activeForeground": "#cdc3ff",
+    "editor.selectionBackground": "#cdc3ff40",
+
+    "tab.activeBackground": "#040421",
+    "tab.activeForeground": "#cdc3ff",
+
+    "editorGroupHeader.tabsBackground": "#193632",
+    "titleBar.activeBackground": "#193632",
+    "titleBar.inactiveBackground": "#345348",
+    "titleBar.activeForeground": "#cdc3ff",
+
+    "tab.inactiveBackground": "#040421",
+    "tab.inactiveForeground": "#535555",
+    "tab.border": "#345348",
+
+    "input.background": "#040421",
+    "inputOption.activeBorder": "#ace9c5",
+    "input.foreground": "#e9eae4",
+    "input.border": "#345348",
+    "input.placeholderForeground": "#7e807f",
+    "quickInput.background": "#193632",
+    "quickInput.foreground": "#ace9c5",
+    "quickInputTitle.background": "#040421",
+
+    "editorWidget.resizeBorder": "#345348",
+
+    "sideBar.background": "#040421",
+
+    "list.focusBackground": "#2D27A440",
+    "list.hoverBackground": "#2D27A440",
+    "list.inactiveSelectionBackground": "#2D27A480",
+    "list.activeSelectionBackground": "#2D27A4",
+
+    "panel.background": "#040421",
+    "panel.border": "#345348",
+
+    "sideBar.border": "#345348",
+
+    "statusBar.background": "#2d27a4",
+    "statusBar.foreground": "#e9eae4",
+    "statusBarItem.activeBackground": "#040421",
+    "statusBarItem.hoverBackground": "#040421",
+
+    "notifications.background": "#040421",
+    "notifications.border": "#345348",
+    "notificationCenter.border": "#345348"
+  },
+  "semanticHighlighting": false,
+  "tokenColors": [
+    {
+      "name": "sea700",
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#ace9c5"
+      }
+    },
+    {
+      "name": "violet900",
+      "scope": [
+        "meta.tag.attributes.value",
+        "variable",
+        "support.type.property-name"
+      ],
+      "settings": {
+        "foreground": "#cfd3ff"
+      }
+    },
+    {
+      "name": "violet700",
+      "scope": ["support.type.primitive", "entity", "variable.other.property"],
+      "settings": {
+        "foreground": "#a8a9f4"
+      }
+    },
+    {
+      "name": "gold700",
+      "scope": [
+        "string",
+        "meta.property-value.css",
+        "entity.other.attribute-name.class.css",
+        "keyword.other"
+      ],
+      "settings": {
+        "foreground": "#ffd140"
+      }
+    },
+    {
+      "name": "gold500",
+      "scope": ["constant", "entity.other.attribute-name.id.css"],
+      "settings": {
+        "foreground": "#CE9409"
+      }
+    },
+    {
+      "name": "gold900",
+      "scope": [
+        "keyword.operator",
+        "keyword.control",
+        "storage",
+        "variable.language"
+      ],
+      "settings": {
+        "foreground": "#fff4ba"
+      }
+    },
+    {
+      "name": "sea900",
+      "scope": ["entity.name.function", "source.python"],
+      "settings": {
+        "foreground": "#d9ffe8"
+      }
+    },
+    {
+      "name": "gray990",
+      "scope": ["source", "meta.brace"],
+      "settings": {
+        "foreground": "#e9eae4"
+      }
+    },
+    {
+      "name": "sea500",
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#6e9d87"
+      }
+    }
+  ],
+  "type": "dark",
+  "semanticTokenColors": {}
+}

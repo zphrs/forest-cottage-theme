@@ -17,6 +17,10 @@
         "label": "Forest Cottage",
         "uiTheme": "vs-dark",
         "path": "./themes/Forest Cottage-color-theme.json"
+      },
+      {
+        "label": "Classy Forest Cottage",
+        "path": "./themes/Classy-color-theme.json"
       }
     ]
   },
