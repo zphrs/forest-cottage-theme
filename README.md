@@ -1,24 +1,34 @@
 # Forest Cottage
 
-## A foresty theme based on VSCode's Dark+ Theme
+## A foresty theme based on VSCode's Dark Themes
 
 ### Example Images
 
-#### Vue/all of VSCode
+|               Classic               |               Classy               |
+| :---------------------------------: | :--------------------------------: |
+|       VS Code Dark Equivalent       |      VS Code Dark Equivalent       |
+|                Dark+                |            Dark Modern             |
+|              Vue + UI               |              Vue + UI              |
+| ![VSCode](./images/classic/vue.png) | ![VSCode](./images/classy/vue.png) |
+|             JavaScript              |             JavaScript             |
+|   ![JS](./images/classic/js.png)    |   ![JS](./images/classy/js.png)    |
+|                Rust                 |                Rust                |
+| ![Rust](./images/classic/rust.png)  | ![Rust](./images/classy/rust.png)  |
 
-![VSCode](./images/vue-example.png)
+### Color Inspiration for Classic
 
-#### JavaScript
+Inspired by general colors found in foresty settings like green 💚, golden yellow 💛, orange 🧡,
+and purple 💜. The purple 💜 is inspired by twitter's dark blue night theme background color, just
+hue shifted. The green 💚 is another hue-shift of twitter's dark blue. The golden yellow is just a
+color that I enjoy in between yellow 💛 and orange 🧡.
 
-![JS](./images/js-example.png)
+### Color Inspiration for Classy
 
-#### Rust
+Similarly inspired by colors found in foresty settings, but more of a coastal forest inspiration
+with seafoam green 🌊💚, golden yellow ⭐️💛, rusted red 🧱❤️, and moon-lit blueish purple 🌑💜
 
-![Rust](./images/rust-example.png)
-
-### Color Inspiration
-
-Inspired by general colors found in foresty settings like green 💚, golden yellow 💛, orange 🧡, and purple 💜. The purple 💜 is inspired by twitter's dark blue night theme background color, just hue shifted. The green 💚 is another hue-shift of twitter's dark blue. The golden yellow is just a color that I enjoy in between yellow 💛 and orange 🧡.
+Colors were hand selected using [palettte.app](https://palettte.app) - you can find the palettte
+JSON for import into palettte [here](./themes/palettteImport.json).
 
 ## Credits
 
