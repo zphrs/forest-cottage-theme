@@ -4,16 +4,12 @@
 
 ### Example Images
 
-|               Classic               |               Classy               |
-| :---------------------------------: | :--------------------------------: |
-|       VS Code Dark Equivalent       |      VS Code Dark Equivalent       |
-|                Dark+                |            Dark Modern             |
-|              Vue + UI               |              Vue + UI              |
-| ![VSCode](./images/classic/vue.png) | ![VSCode](./images/classy/vue.png) |
-|             JavaScript              |             JavaScript             |
-|   ![JS](./images/classic/js.png)    |   ![JS](./images/classy/js.png)    |
-|                Rust                 |                Rust                |
-| ![Rust](./images/classic/rust.png)  | ![Rust](./images/classy/rust.png)  |
+|                          |               Classic               |               Classy               |
+| ------------------------ | :---------------------------------: | :--------------------------------: |
+| Default Theme Equivalent |                Dark+                |            Dark Modern             |
+| Vue + VS Code UI         | ![VSCode](./images/classic/vue.png) | ![VSCode](./images/classy/vue.png) |
+| JavaScript               |   ![JS](./images/classic/js.png)    |   ![JS](./images/classy/js.png)    |
+| Rust                     | ![Rust](./images/classic/rust.png)  | ![Rust](./images/classy/rust.png)  |
 
 ### Color Inspiration for Classic
 

@@ -31,3 +31,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Classy theme slightly
 - README to include classy theme
+
+## [0.5.1] - 2023-06-12
+
+## Fixed
+
+- Table in the readme
