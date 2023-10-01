@@ -5,6 +5,7 @@
     "editor.foreground": "#19191A",
     "foreground": "#345348",
     "errorForeground": "#3B1A00",
+    "selection.background": "#6E9D8780",
     // "focusBorder": "#193632",
     "activityBar.background": "#E5E6E2",
     "activityBar.activeBorder": "#6E9D87",
@@ -81,12 +82,18 @@
     "diffEditor.insertedLineBackground": "#6E9D8720",
     "diffEditor.removedLineBackground": "#CE550920",
     "diffEditor.diagonalFill": "#CFD3FF",
-    "diffEditorOverview.insertedForeground": "#6E9D87",
-    "diffEditorOverview.removedForeground": "#CE5509",
+    "diffEditorOverview.insertedForeground": "#6E9D87B0",
+    "diffEditorOverview.removedForeground": "#CE5509B0",
+
     "scrollbar.shadow": "#6E9D87",
 
-    "editorSuggestWidget.focusHighlightForeground": "#CFD3FF",
-    "editorSuggestWidget.highlightForeground": "#2D27A4",
+    "list.focusHighlightForeground": "#CFD3FF",
+    "list.highlightForeground": "#2D27A4",
+
+    "peekViewTitle.background": "#E5E6E2",
+    "peekViewTitleLabel.foreground": "#345348",
+    "peekViewTitleDescription.foreground": "#6E9D87",
+    "peekView.border": "#A8A9F4",
 
     "editorGroupHeader.tabsBackground": "#CFD3FF",
     "titleBar.activeBackground": "#CFD3FF",
@@ -130,6 +137,14 @@
     "statusBarItem.activeBackground": "#E5E6E2",
     "statusBarItem.hoverBackground": "#E5E6E2",
     "statusBarItem.errorBackground": "#CE5509",
+    "progressBar.background": "#6E9D87",
+
+    "inputValidation.errorBackground": "#FFC7A3",
+    "inputValidation.errorBorder": "#CE5509",
+    "inputValidation.errorForeground": "#3B1A00",
+    "inputValidation.warningBackground": "#FFF4B8",
+    "inputValidation.warningForeground": "#413900",
+    "inputValidation.warningBorder": "#CE9409",
 
     "notifications.background": "#E5E6E2",
     "notifications.border": "#A8A9F4",
