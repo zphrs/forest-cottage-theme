@@ -1,5 +1,6 @@
 {
   "python.linting.enabled": false,
   "C_Cpp.inlayHints.referenceOperator.enabled": true,
-  "workbench.editor.untitled.hint": "text"
+  "workbench.editor.untitled.hint": "text",
+  "editor.insertSpaces": false
 }

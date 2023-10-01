@@ -21,6 +21,7 @@
     "textCodeBlock.background": "#E5E6E2",
     "focusBorder": "#6E9D87",
     "settings.modifiedItemIndicator": "#846905",
+    "editorGhostText.foreground": "#4B4C4D",
 
     "button.background": "#A8A9F4",
     "button.foreground": "#E5E6E2",
@@ -36,6 +37,8 @@
     "editor.selectionBackground": "#34534840",
     "editorError.foreground": "#CE5509",
     "editorWarning.foreground": "#CE9409",
+
+    "settings.headerForeground": "#313233",
 
     "tab.activeBackground": "#E5E6E2",
     "tab.inactiveBackground": "#A8A9F4",

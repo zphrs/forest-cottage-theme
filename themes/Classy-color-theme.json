@@ -21,6 +21,7 @@
     "textCodeBlock.background": "#040421",
     "focusBorder": "#A8A9F4",
     "settings.modifiedItemIndicator": "#FFD140",
+    "editorGhostText.foreground": "#B0B3B0",
 
     "button.background": "#a8a9f4",
     "button.foreground": "#040421",

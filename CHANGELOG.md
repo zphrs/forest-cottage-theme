@@ -10,30 +10,52 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.3.3] - 2022-08-18
 
-## Added
+### Added
 
 - Custom color for the ipynb editor background to change it from an ugly green to a pleasant slightly desaturated purple
 
 ## [0.5.0] - 2023-06-12
 
-## Added
+### Added
 
 - Classy color theme (now officially out)
 - Example screenshots of classy theme
 - Palettte Import JSON
 
-## Fixed
+### Fixed
 
 - Naming of themes to ensure they appear nearby in an alphabetic list
 - Miscilaneous fixes to classy including changing the sidebar for the classy theme
 
-## Changed
+### Changed
 
 - Classy theme slightly
 - README to include classy theme
 
 ## [0.5.1] - 2023-06-12
 
-## Fixed
+### Fixed
 
 - Table in the readme
+
+## [0.6.0] - 2023-09-30
+
+### Added
+
+- New theme: "Forest Cottage - Classy Light"
+
+### Changed
+
+- Changed the name of the theme "Forest Cottage - Classy" to "Forest Cottage - Classy Dark"
+
+## [0.6.1] - 2023-09-30
+
+### Fixed
+
+- Fixed the headers in settings.
+
+## [0.6.2] - 2023-09-30
+
+### Fixed
+
+- Fixed the ghost text color
