@@ -24,11 +24,11 @@
     "settings.modifiedItemIndicator": "#846905",
     "editorGhostText.foreground": "#4B4C4D",
 
-    "button.background": "#A8A9F4",
+    "button.background": "#345348",
     "button.foreground": "#E5E6E2",
     "button.secondaryBackground": "#E5E6E2",
-    "button.secondaryForeground": "#6E9D87",
-    "button.hoverBackground": "#ACE9C5",
+    "button.secondaryForeground": "#6e9d87",
+    "button.hoverBackground": "#6E9D87",
     "dropdown.background": "#B0B3B0",
     "dropdown.foreground": "#19191A",
 
