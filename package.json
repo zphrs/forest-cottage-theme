@@ -19,8 +19,12 @@
         "path": "./themes/Forest Cottage-color-theme.json"
       },
       {
-        "label": "Forest Cottage - Classy",
+        "label": "Forest Cottage - Classy Dark",
         "path": "./themes/Classy-color-theme.json"
+      },
+      {
+        "label": "Forest Cottage - Classy Light",
+        "path": "./themes/Classy-light-color-theme.json"
       }
     ]
   },

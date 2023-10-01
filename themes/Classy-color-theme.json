@@ -3,7 +3,7 @@
   "colors": {
     "editor.background": "#040421",
     "editor.foreground": "#e9eae4",
-    "foreground": "#cdc3ff",
+    "foreground": "#CFD3FF",
     "errorForeground": "#F58F53",
     // "focusBorder": "#193632",
     "activityBar.background": "#040421",
@@ -27,6 +27,7 @@
     "button.secondaryBackground": "#2D27A4",
     "button.secondaryForeground": "#A8A9F4",
     "button.hoverBackground": "#645cee",
+    "dropdown.background": "#313233",
 
     "editorGutter.background": "#040421",
     "editorLineNumber.foreground": "#535555",
@@ -40,13 +41,17 @@
     "tab.inactiveForeground": "#939594",
     "tab.border": "#193632",
     "tab.hoverBackground": "#040421",
-    "tab.activeForeground": "#cfd3ff",
+    "tab.activeForeground": "#CFD3FF",
     "tab.activeBorderTop": "#A8A9F4",
     "gitDecoration.untrackedResourceForeground": "#ACE9C5",
     "gitDecoration.modifiedResourceForeground": "#FFD140",
     "gitDecoration.deletedResourceForeground": "#c4977d",
     "list.errorForeground": "#F58F53",
     "list.warningForeground": "#CE9409",
+
+    "editorWidget.background": "#19191A", // TODO
+    "editorWidget.foreground": "#E5E6E2",
+    "editorWidget.border": "#6E9D87",
 
     "editorGroupHeader.tabsBackground": "#193632",
     "titleBar.activeBackground": "#193632",
@@ -70,6 +75,12 @@
     "list.inactiveSelectionBackground": "#2D27A480",
     "list.activeSelectionBackground": "#2D27A4",
 
+    "editor.lineHighlightBorder": "#313233",
+    "editor.wordHighlightBackground": "#2D27A480",
+    "editor.wordHighlightStrongBackground": "#2D27A4",
+    "editor.findMatchHighlightBackground": "#84690580",
+    "editor.findMatchBackground": "#CE940980",
+
     "panel.background": "#040421",
     "panel.border": "#345348",
 
@@ -82,7 +93,9 @@
 
     "notifications.background": "#040421",
     "notifications.border": "#345348",
-    "notificationCenter.border": "#345348"
+    "notificationCenter.border": "#345348",
+
+    "icon.foreground": "#A8A9F4"
   },
   "semanticHighlighting": false,
   "tokenColors": [

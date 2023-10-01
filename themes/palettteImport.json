@@ -1,176 +1,151 @@
 [
-    {
-      "paletteName": "gold",
-      "swatches": [
-        {
-          "name": "gold-100",
-          "color": "413900"
-        },
-        {
-          "name": "gold-300",
-          "color": "846905"
-        },
-        {
-          "name": "gold-500",
-          "color": "CE9409"
-        },
-        {
-          "name": "gold-700",
-          "color": "FFD140"
-        },
-        {
-          "name": "gold-900",
-          "color": "FFF4B8"
-        }
-      ]
-    },
-    {
-      "paletteName": "seafoam",
-      "swatches": [
-        {
-          "name": "sea-100",
-          "color": "193632"
-        },
-        {
-          "name": "sea-300",
-          "color": "345348"
-        },
-        {
-          "name": "sea-500",
-          "color": "6E9D87"
-        },
-        {
-          "name": "sea-700",
-          "color": "ACE9C5"
-        },
-        {
-          "name": "sea-900",
-          "color": "D9FFE8"
-        }
-      ]
-    },
-    {
-      "paletteName": "violet",
-      "swatches": [
-        {
-          "name": "violet-100",
-          "color": "040421"
-        },
-        {
-          "name": "violet-300",
-          "color": "2D27A4"
-        },
-        {
-          "name": "violet-500",
-          "color": "645CEE"
-        },
-        {
-          "name": "violet-700",
-          "color": "A8A9F4"
-        },
-        {
-          "name": "violet-900",
-          "color": "CFD3FF"
-        }
-      ]
-    },
-    {
-      "paletteName": "fire",
-      "swatches": [
-        {
-          "name": "fire 100",
-          "color": "3B1A00"
-        },
-        {
-          "name": "fire 300",
-          "color": "743002"
-        },
-        {
-          "name": "fire 500",
-          "color": "CE5509"
-        },
-        {
-          "name": "fire 700",
-          "color": "F58F53"
-        },
-        {
-          "name": "fire 900",
-          "color": "FFC7A3"
-        }
-      ]
-    },
-    {
-      "paletteName": "gray",
-      "swatches": [
-        {
-          "name": "gray-0",
-          "color": "000000"
-        },
-        {
-          "name": "gray-10",
-          "color": "19191A"
-        },
-        {
-          "name": "gray-20",
-          "color": "313233"
-        },
-        {
-          "name": "gray-30",
-          "color": "4B4C4D"
-        },
-        {
-          "name": "gray-40",
-          "color": "646666"
-        },
-        {
-          "name": "gray-50",
-          "color": "7E807F"
-        },
-        {
-          "name": "gray-60",
-          "color": "979998"
-        },
-        {
-          "name": "gray-70",
-          "color": "B0B3B0"
-        },
-        {
-          "name": "gray-80",
-          "color": "CBCCCA"
-        },
-        {
-          "name": "gray-90",
-          "color": "E5E6E2"
-        },
-        {
-          "name": "gray-100",
-          "color": "FFFEF7"
-        }
-      ]
-    },
-    {
-      "paletteName": "pg-",
-      "swatches": [
-        {
-          "name": "New Swatch",
-          "color": "160833"
-        },
-        {
-          "name": "New Swatch",
-          "color": "7843E1"
-        },
-        {
-          "name": "New Swatch",
-          "color": "9E6FFF"
-        },
-        {
-          "name": "New Swatch",
-          "color": "BC9AFF"
-        },
-        {
-          "name": "New Swatch",
-          "color": "DDCBFF"
-        }
-      ]
-    }
-  ]
+  {
+    "paletteName": "gold",
+    "swatches": [
+      {
+        "name": "gold-100",
+        "color": "413900"
+      },
+      {
+        "name": "gold-300",
+        "color": "846905"
+      },
+      {
+        "name": "gold-500",
+        "color": "CE9409"
+      },
+      {
+        "name": "gold-700",
+        "color": "FFD140"
+      },
+      {
+        "name": "gold-900",
+        "color": "FFF4B8"
+      }
+    ]
+  },
+  {
+    "paletteName": "seafoam",
+    "swatches": [
+      {
+        "name": "sea-100",
+        "color": "193632"
+      },
+      {
+        "name": "sea-300",
+        "color": "345348"
+      },
+      {
+        "name": "sea-500",
+        "color": "6E9D87"
+      },
+      {
+        "name": "sea-700",
+        "color": "ACE9C5"
+      },
+      {
+        "name": "sea-900",
+        "color": "D9FFE8"
+      }
+    ]
+  },
+  {
+    "paletteName": "violet",
+    "swatches": [
+      {
+        "name": "violet-100",
+        "color": "040421"
+      },
+      {
+        "name": "violet-300",
+        "color": "2D27A4"
+      },
+      {
+        "name": "violet-500",
+        "color": "645CEE"
+      },
+      {
+        "name": "violet-700",
+        "color": "A8A9F4"
+      },
+      {
+        "name": "violet-900",
+        "color": "CFD3FF"
+      }
+    ]
+  },
+  {
+    "paletteName": "fire",
+    "swatches": [
+      {
+        "name": "fire 100",
+        "color": "3B1A00"
+      },
+      {
+        "name": "fire 300",
+        "color": "743002"
+      },
+      {
+        "name": "fire 500",
+        "color": "CE5509"
+      },
+      {
+        "name": "fire 700",
+        "color": "F58F53"
+      },
+      {
+        "name": "fire 900",
+        "color": "FFC7A3"
+      }
+    ]
+  },
+  {
+    "paletteName": "gray",
+    "swatches": [
+      {
+        "name": "gray-0",
+        "color": "000000"
+      },
+      {
+        "name": "gray-10",
+        "color": "19191A"
+      },
+      {
+        "name": "gray-20",
+        "color": "313233"
+      },
+      {
+        "name": "gray-30",
+        "color": "4B4C4D"
+      },
+      {
+        "name": "gray-40",
+        "color": "646666"
+      },
+      {
+        "name": "gray-50",
+        "color": "7E807F"
+      },
+      {
+        "name": "gray-60",
+        "color": "979998"
+      },
+      {
+        "name": "gray-70",
+        "color": "B0B3B0"
+      },
+      {
+        "name": "gray-80",
+        "color": "CBCCCA"
+      },
+      {
+        "name": "gray-90",
+        "color": "E5E6E2"
+      },
+      {
+        "name": "gray-100",
+        "color": "FFFEF7"
+      }
+    ]
+  }
+]
