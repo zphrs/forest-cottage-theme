@@ -141,7 +141,9 @@
 
     "inputValidation.errorBackground": "#3B1A00",
     "inputValidation.errorBorder": "#CE5509",
+    "inputValidation.errorForeground": "#FFC7A3",
     "inputValidation.warningBackground": "#413900",
+    "inputValidation.warningForeground": "#FFF4B8",
     "inputValidation.warningBorder": "#CE9409",
 
     "notifications.background": "#040421",

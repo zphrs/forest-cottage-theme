@@ -162,21 +162,21 @@
       }
     },
     {
-      "name": "violet100",
+      "name": "violet300",
       "scope": [
         "meta.tag.attributes.value",
         "variable",
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#040421"
+        "foreground": "#2D27A4"
       }
     },
     {
-      "name": "violet300",
+      "name": "violet500",
       "scope": ["support.type.primitive", "entity", "variable.other.property"],
       "settings": {
-        "foreground": "#2D27A4"
+        "foreground": "#645CEE"
       }
     },
     {
@@ -211,10 +211,10 @@
       }
     },
     {
-      "name": "sea900",
+      "name": "sea300",
       "scope": ["entity.name.function", "source.python"],
       "settings": {
-        "foreground": "#193632"
+        "foreground": "#345348"
       }
     },
     {
