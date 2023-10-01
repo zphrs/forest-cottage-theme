@@ -2,7 +2,7 @@
   "name": "forest-cottage",
   "displayName": "forest cottage",
   "description": "A foresty theme 🍃",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -25,7 +25,7 @@
       },
       {
         "label": "Forest Cottage - Classy Light",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Classy-light-color-theme.json"
       }
     ]

@@ -59,3 +59,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - Various refinements to the classy themes
+
+## [0.6.3] - 2023-10-1
+
+### Fixed
+
+- Fixed the classy dark theme's uiTheme
+- Fixed panel color on classy dark theme
