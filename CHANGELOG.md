@@ -56,6 +56,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.6.2] - 2023-09-30
 
-### Fixed
+### Changed
 
-- Fixed the ghost text color
+- Various refinements to the classy themes
