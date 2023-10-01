@@ -14,6 +14,7 @@
     "disabledForeground": "#535555",
     "descriptionForeground": "#E9EAE4",
     "widget.border": "#345348",
+    "editorGroup.border": "#345348",
     "sash.hoverBorder": "#193632",
     "textLink.foreground": "#A8A9F4",
     "textLink.activeForeground": "#CFD3FF",
@@ -29,6 +30,7 @@
     "button.secondaryForeground": "#A8A9F4",
     "button.hoverBackground": "#645cee",
     "dropdown.background": "#313233",
+    "dropdown.foreground": "#e9eae4",
 
     "editorGutter.background": "#040421",
     "editorLineNumber.foreground": "#535555",
@@ -36,6 +38,8 @@
     "editor.selectionBackground": "#cdc3ff40",
     "editorError.foreground": "#CE5509",
     "editorWarning.foreground": "#CE9409",
+
+    "settings.headerForeground": "#CBCCCA",
 
     "tab.activeBackground": "#040421",
     "tab.inactiveBackground": "#051e1a",
@@ -53,6 +57,36 @@
     "editorWidget.background": "#19191A", // TODO
     "editorWidget.foreground": "#E5E6E2",
     "editorWidget.border": "#6E9D87",
+
+    "debugToolBar.background": "#19191A",
+    "debugToolBar.border": "#6E9D87",
+    "debugExceptionWidget.background": "#19191A",
+    "debugExceptionWidget.border": "#6E9D87",
+
+    "debugIcon.stopForeground": "#CE5509",
+    "debugIcon.disconnectForeground": "#CE5509",
+    "debugIcon.restartForeground": "#CE9409",
+    "debugIcon.breakpointForeground": "#CE5509",
+    "debugIcon.startForeground": "#6E9D87",
+    "debugIcon.pauseForeground": "#A8A9F4",
+    "debugIcon.stepBackForeground": "#A8A9F4",
+    "debugIcon.stepIntoForeground": "#A8A9F4",
+    "debugIcon.stepOutForeground": "#A8A9F4",
+    "debugIcon.continueForeground": "#A8A9F4",
+    "debugIcon.stepOverForeground": "#A8A9F4",
+
+    "diffEditor.border": "#345348",
+    "diffEditor.insertedTextBackground": "#6E9D8730",
+    "diffEditor.removedTextBackground": "#CE550930",
+    "diffEditor.insertedLineBackground": "#6E9D8720",
+    "diffEditor.removedLineBackground": "#CE550920",
+    "diffEditor.diagonalFill": "#6E9D87",
+    "diffEditorOverview.insertedForeground": "#6E9D87",
+    "diffEditorOverview.removedForeground": "#CE5509",
+    "scrollbar.shadow": "#4B4C4D",
+
+    "editorSuggestWidget.focusHighlightForeground": "#CFD3FF",
+    "editorSuggestWidget.highlightForeground": "#2D27A4",
 
     "editorGroupHeader.tabsBackground": "#193632",
     "titleBar.activeBackground": "#193632",
@@ -84,13 +118,18 @@
 
     "panel.background": "#040421",
     "panel.border": "#345348",
+    "panelTitle.activeForeground": "#A8A9F4",
+    "panelTitle.activeBorder": "#645CEE",
+    "panelTitle.inactiveForeground": "#645CEE",
 
     "sideBar.border": "#345348",
 
     "statusBar.background": "#2d27a4",
     "statusBar.foreground": "#e9eae4",
+    "statusBar.debuggingBackground": "#846905",
     "statusBarItem.activeBackground": "#040421",
     "statusBarItem.hoverBackground": "#040421",
+    "statusBarItem.errorBackground": "#CE5509",
 
     "notifications.background": "#040421",
     "notifications.border": "#345348",
