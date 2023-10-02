@@ -94,6 +94,7 @@
     "peekViewTitleLabel.foreground": "#A8A9F4",
     "peekViewTitleDescription.foreground": "#CFD3FF",
     "peekView.border": "#345348",
+    "peekViewEditor.background": "#040421",
 
     "editorGroupHeader.tabsBackground": "#193632",
     "titleBar.activeBackground": "#193632",
@@ -137,6 +138,7 @@
     "statusBarItem.activeBackground": "#040421",
     "statusBarItem.hoverBackground": "#040421",
     "statusBarItem.errorBackground": "#CE5509",
+
     "progressBar.background": "#645CEE",
 
     "inputValidation.errorBackground": "#3B1A00",

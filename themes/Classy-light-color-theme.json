@@ -51,6 +51,7 @@
     "tab.activeBorderTop": "#6E9D87",
     "gitDecoration.untrackedResourceForeground": "#345348",
     "gitDecoration.modifiedResourceForeground": "#846905",
+    "gitDecoration.stageModifiedResourceForeground": "#CE9409",
     "gitDecoration.deletedResourceForeground": "#743002",
     "list.errorForeground": "#743002",
     "list.warningForeground": "#846905",
@@ -94,6 +95,7 @@
     "peekViewTitleLabel.foreground": "#345348",
     "peekViewTitleDescription.foreground": "#6E9D87",
     "peekView.border": "#A8A9F4",
+    "peekViewEditor.background": "#E5E6E2",
 
     "editorGroupHeader.tabsBackground": "#CFD3FF",
     "titleBar.activeBackground": "#CFD3FF",
@@ -137,6 +139,7 @@
     "statusBarItem.activeBackground": "#E5E6E2",
     "statusBarItem.hoverBackground": "#E5E6E2",
     "statusBarItem.errorBackground": "#CE5509",
+
     "progressBar.background": "#6E9D87",
 
     "inputValidation.errorBackground": "#FFC7A3",

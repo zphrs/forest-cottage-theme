@@ -72,3 +72,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - Various minor tweaks
+
+## [0.6.5] - 2023-10-2
+
+### Fixed
+
+- Peek view background
+- Color of modified files in the explorer
