@@ -66,3 +66,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fixed the classy dark theme's uiTheme
 - Fixed panel color on classy dark theme
+
+## [0.6.4] - 2023-10-2
+
+### Fixed
+
+- Various minor tweaks
