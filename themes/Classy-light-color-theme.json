@@ -58,7 +58,7 @@
     "list.errorForeground": "#743002",
     "list.warningForeground": "#846905",
 
-    "editorWidget.background": "#FFFEF7", // TODO
+    "editorWidget.background": "#FFFEF7",
     "editorWidget.foreground": "#19191A",
     "editorWidget.border": "#A8A9F4",
 

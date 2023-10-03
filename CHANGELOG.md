@@ -79,3 +79,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Peek view background
 - Color of modified files in the explorer
+
+## [0.6.6] - 2023-10-2
+
+### Fixed
+
+  - 
