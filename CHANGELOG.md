@@ -91,3 +91,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - Changed highlight colors to remove fire from the colors.
+
+## [0.6.8] - 2023-10-2
+
+### Fixed
+
+- Fixed highlight colors on dark mode
