@@ -85,3 +85,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - cursor colors/labelling light/dark modes properly
+
+## [0.6.7] - 2023-10-2
+
+### Changed
+
+- Changed highlight colors to remove fire from the colors.
