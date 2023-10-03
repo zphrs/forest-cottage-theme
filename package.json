@@ -20,12 +20,12 @@
       },
       {
         "label": "Forest Cottage - Classy Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Classy-color-theme.json"
       },
       {
         "label": "Forest Cottage - Classy Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Classy-light-color-theme.json"
       }
     ]

@@ -5,7 +5,7 @@
     "editor.foreground": "#e9eae4",
     "foreground": "#CFD3FF",
     "errorForeground": "#F58F53",
-    "selection.background": "#CDC3FF80",
+    "selection.background": "#CFD3FF80",
     // "focusBorder": "#193632",
     "activityBar.background": "#040421",
     "activityBar.activeBorder": "#A8A9F4",
@@ -25,6 +25,8 @@
     "settings.modifiedItemIndicator": "#FFD140",
     "editorGhostText.foreground": "#B0B3B0",
 
+    "editorCursor.foreground": "#CFD3FF",
+
     "button.background": "#a8a9f4",
     "button.foreground": "#040421",
     "button.secondaryBackground": "#2D27A4",
@@ -35,8 +37,8 @@
 
     "editorGutter.background": "#040421",
     "editorLineNumber.foreground": "#535555",
-    "editorLineNumber.activeForeground": "#cdc3ff",
-    "editor.selectionBackground": "#cdc3ff40",
+    "editorLineNumber.activeForeground": "#CFD3FF",
+    "editor.selectionBackground": "#CFD3FF40",
     "editorError.foreground": "#CE5509",
     "editorWarning.foreground": "#CE9409",
 
@@ -95,10 +97,15 @@
     "peekViewTitleDescription.foreground": "#CFD3FF",
     "peekView.border": "#345348",
     "peekViewEditor.background": "#040421",
+    "peekViewResult.background": "#19191A",
+    "peekViewResult.selectionBackground": "#4B4C4D",
+
+    "editorLink.activeForeground": "#CFD3FF",
+    "editorLightBulb.foreground": "#FFD140",
 
     "editorGroupHeader.tabsBackground": "#193632",
     "titleBar.activeBackground": "#193632",
-    "titleBar.activeForeground": "#cdc3ff",
+    "titleBar.activeForeground": "#CFD3FF",
 
     "input.background": "#040421",
     "inputOption.activeBorder": "#ace9c5",
@@ -152,7 +159,14 @@
     "notifications.border": "#345348",
     "notificationCenter.border": "#345348",
 
-    "icon.foreground": "#A8A9F4"
+    "icon.foreground": "#CFD3FF",
+
+    "editorBracketHighlight.foreground1": "#6E9D87",
+    "editorBracketHighlight.foreground2": "#CE5509",
+    "editorBracketHighlight.foreground3": "#645CEE",
+    "editorBracketHighlight.foreground4": "#CE9409",
+    "editorBracketHighlight.foreground5": "#6E9D87",
+    "editorBracketHighlight.foreground6": "#CE5509"
   },
   "semanticHighlighting": false,
   "tokenColors": [
