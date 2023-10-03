@@ -84,4 +84,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Fixed
 
-  - 
+- cursor colors/labelling light/dark modes properly

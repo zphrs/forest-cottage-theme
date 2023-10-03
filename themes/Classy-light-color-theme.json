@@ -163,11 +163,11 @@
     "icon.foreground": "#345348",
 
     "editorBracketHighlight.foreground1": "#6E9D87",
-    "editorBracketHighlight.foreground2": "#CE5509",
+    "editorBracketHighlight.foreground2": "#CE9409",
     "editorBracketHighlight.foreground3": "#645CEE",
-    "editorBracketHighlight.foreground4": "#CE9409",
-    "editorBracketHighlight.foreground5": "#6E9D87",
-    "editorBracketHighlight.foreground6": "#CE5509"
+    "editorBracketHighlight.foreground4": "#345348",
+    "editorBracketHighlight.foreground5": "#846905",
+    "editorBracketHighlight.foreground6": "#2D27A4"
   },
   "semanticHighlighting": false,
   "tokenColors": [
