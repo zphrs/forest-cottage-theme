@@ -53,6 +53,7 @@
     "tab.activeBorderTop": "#A8A9F4",
     "gitDecoration.untrackedResourceForeground": "#ACE9C5",
     "gitDecoration.modifiedResourceForeground": "#FFD140",
+    "gitDecoration.stageModifiedResourceForeground": "#FFF4B8",
     "gitDecoration.deletedResourceForeground": "#c4977d",
     "list.errorForeground": "#F58F53",
     "list.warningForeground": "#CE9409",
@@ -190,7 +191,12 @@
     },
     {
       "name": "violet700",
-      "scope": ["support.type.primitive", "entity", "variable.other.property"],
+      "scope": [
+        "support.type.primitive",
+        "entity",
+        "variable.other.property",
+        "class"
+      ],
       "settings": {
         "foreground": "#a8a9f4"
       }
