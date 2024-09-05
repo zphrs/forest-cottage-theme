@@ -97,3 +97,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - Fixed highlight colors on dark mode
+
+## [0.6.9] - 2023-10-2
+
+### Added
+
+- Example screenshots of classy light mode
