@@ -173,7 +173,7 @@
   "tokenColors": [
     {
       "name": "sea300",
-      "scope": ["entity.name.tag"],
+      "scope": ["entity.name.tag", "meta.scope.tag"],
       "settings": {
         "foreground": "#345348"
       }
